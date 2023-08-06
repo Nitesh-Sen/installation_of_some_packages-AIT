@@ -102,10 +102,25 @@ echo "${Green} Done.${NC}"
 
 ```
 
-    Save the file and exit the `vim` editor. Press `Esc`, then type `:wq` and press `Enter`.
+> Save the file and exit the `vim` editor. Press `Esc`, then type `:wq` and press `Enter`.
 
 4. Run the following command to execute the script:
 
     ```bash
     sh script.sh
     ```
+
+5. After running the command, you will see the output as shown in the image. At this point, please press the **Enter** key.
+    <img alt="coding" width="700" src="https://github.com/Nitesh-Sen/installation_of_some_packages-AIT/blob/802bbdc619aa283ab155ef289aba7fee280db0db/Picture-data/1.png">
+
+6. After pressing **Enter** once, you will receive another set of distinct outputs, as indicated in the image. Once again, proceed by pressing the **Enter** key. Avoid any other actions at this stage.
+    <img alt="coding" width="700" src="https://github.com/Nitesh-Sen/installation_of_some_packages-AIT/blob/802bbdc619aa283ab155ef289aba7fee280db0db/Picture-data/2.png">
+
+
+> **NOTE:** Now, simply relax and wait. The script will take care of the entire installation process automatically. No further actions are required from your end.
+
+<div align="center">
+  
+# END
+
+</div>
